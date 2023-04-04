@@ -28,7 +28,7 @@
     <h4>
       <a
         href="https://github.com/alofrrr/Busca-Profundidade-Largura" target="_blank">
-        Visuarizar código no GitHub
+        Visualizar código no GitHub
       </a>
     </h4>
   </div>
