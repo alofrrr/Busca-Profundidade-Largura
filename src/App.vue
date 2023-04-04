@@ -24,6 +24,13 @@
 
     <DfsAlgorithm v-if="searchType === 'dfs'" />
     <BfsAlgorithm v-if="searchType === 'bfs'" />
+
+    <h4>
+      <a
+        href="https://github.com/alofrrr/Busca-Profundidade-Largura" target="_blank">
+        Visuarizar código no GitHub
+      </a>
+    </h4>
   </div>
 </template>
 
@@ -99,5 +106,9 @@ body {
   margin: 10px;
   font-size: 1.2rem;
   cursor: pointer;
+}
+a{
+  color: white;
+  text-decoration: none;
 }
 </style>
